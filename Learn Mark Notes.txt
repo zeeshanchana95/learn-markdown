@@ -1,0 +1,71 @@
+==> Learn Markdown:
+
+# for heading
+
+i am paragrap by default
+
+**bold** or __bold__
+
+*italic* or _italic_
+
+~~strikethrought~~
+
+horizontal rule ---
+
+Blockquote >
+
+
+
+1. List Item 1
+2. List Item 2
+    1. List Sublist 1
+    2. List Sublist 2
+3. List Item 3
+
+
+- List Item 1
+- List Item 2
+    1. List Item Sublist 1
+- List Item 3
+
+
+![alt text](url)
+
+[link text](url)
+
+<email>
+
+image insdie link
+
+[![Podcast](https://dev-to-uploads.s3.amazonaws.com/i/6nm9s8h4jwndmap741xc.png)](https://www.selftaughtornot.com/episodes)
+
+
+# Extended Syntax - Tables
+--- 
+
+center align
+
+| Left | Center | Right |
+| ---- | ------ | ----- |
+| 1    | 2      | 3     |
+
+
+left align
+
+| Left | Center | Right |
+| :--- | ------ | ----- |
+| 1    | 2      | 3     |
+
+right laign
+
+| Left | Center | Right |
+| :--- | ------ | ----: |
+| 1    | 2      | 3     |
+
+center align
+
+| Left | Center | Right |
+| :--- | :----: | ----: |
+| 1    | 2      | 3     |
+
+
